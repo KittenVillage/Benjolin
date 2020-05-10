@@ -36,6 +36,6 @@ This version adds an opamp to add gain to the output to approx 10v p-p. It also 
 (can still be attenuated with the pot), normalises T2 to osc 1 cv and T2 to filter cv input.
 
 ## Fork note ##
-1.6.1 Revised silk layer, plans for adding some Casper mods.
+1.6.1 Revised silk layer, plans for adding some Casper mods. Revised Loop Offset panel hole to match pcb
 
 
